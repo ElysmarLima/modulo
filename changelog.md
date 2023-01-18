@@ -11,4 +11,4 @@ e este projeto adere ao [Versão Semântica](https://semver.org/spec/v2.0.0.html
 
 ### Adicionado
 
-- Added changelog.md
+- Added changelog.md    
